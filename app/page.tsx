@@ -138,7 +138,7 @@ export default function Home() {
                   className="h-full w-full object-cover"
                 />
               </div>
-              <div className="absolute bottom-2 right-2 text-4xl">
+              <div className="absolute bottom-2 right-2 text-4xl">👋</div>
             </div>
           </motion.div>
 
